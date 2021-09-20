@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = soobratty.as@gmail.com
+	name = Anas Soobratty
